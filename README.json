@@ -1,0 +1,367 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Flake Modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "devshell",
+          "description": "Improved developer shells.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-06-18T20:01:15Z",
+            "owner": "numtide",
+            "repo": "devshell",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nix-gaming",
+          "description": "Gaming tools and configurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-13T02:23:46Z",
+            "owner": "fufexan",
+            "repo": "nix-gaming",
+            "stars": 941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pre-commit-hooks-nix",
+          "description": "Git pre-commit hooks integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-11T23:09:59Z",
+            "owner": "cachix",
+            "repo": "git-hooks.nix",
+            "stars": 853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "services flake",
+          "description": "NixOS-like services for Nix as flake modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-11T18:47:21Z",
+            "owner": "juspay",
+            "repo": "services-flake",
+            "stars": 760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "treefmt-nix",
+          "description": "Declarative formatter configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-05T16:03:42Z",
+            "owner": "numtide",
+            "repo": "treefmt-nix",
+            "stars": 637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nixos-flake",
+          "description": "Opinionated NixOS configuration with flake-parts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-04-23T17:03:51Z",
+            "owner": "srid",
+            "repo": "nixos-unified",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nixos-unified",
+          "description": "Flake-parts module to unify NixOS + nix-darwin + home-manager configuration in a single flake.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-04-23T17:03:51Z",
+            "owner": "srid",
+            "repo": "nixos-unified",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flake-root",
+          "description": "Discover project root directory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2024-08-14T02:53:37Z",
+            "owner": "srid",
+            "repo": "flake-root",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hercules-ci-effects",
+          "description": "CI/CD integration for flake-parts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-07-15T05:01:37Z",
+            "owner": "hercules-ci",
+            "repo": "hercules-ci-effects",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "community.flake.parts",
+          "description": "A Community website with links to several flake-module projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-11T20:08:18Z",
+            "owner": "flake-parts",
+            "repo": "community.flake.parts",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VTimofeenko/flake-modules",
+          "description": "A collection of reusable flake modules, incl. a nice inputs bumber.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2025-10-22T01:36:03Z",
+            "owner": "VTimofeenko",
+            "repo": "flake-modules",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Community Modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Dendritic Pattern",
+          "description": "Nix flake-parts usage pattern in which every Nix file is a flake-parts module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T15:11:40Z",
+            "owner": "mightyiam",
+            "repo": "dendritic",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "import-tree",
+          "description": "Import all nix files in a directory tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-07-17T02:22:40Z",
+            "owner": "denful",
+            "repo": "import-tree",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flake-file",
+          "description": "Dynamically generate your flake.nix from flake-parts modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-07-28T23:52:27Z",
+            "owner": "denful",
+            "repo": "flake-file",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dendritic Nix",
+          "description": "Community-driven Nix distribution based on the Dendritic pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-01-27T21:15:20Z",
+            "owner": "denful",
+            "repo": "dendrix",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flake-parts Builder",
+          "description": "Nix flakes interactive template builder based on flake-parts written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-24T18:54:54Z",
+            "owner": "tsandrini",
+            "repo": "flake-parts-builder",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flake-Parts-Graph (fpg)",
+          "description": "Visualize flake-parts module dependency graphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T06:48:15Z",
+            "owner": "giomf",
+            "repo": "NixoScope",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Related Patterns, Frameworks, Utilities and Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "srid/nixos-config",
+          "description": "NixOS configuration with flake-parts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-13T00:26:58Z",
+            "owner": "srid",
+            "repo": "nixos-config",
+            "stars": 587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mightyiam/infra",
+          "description": "Shahar \"Dawn\" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-11T12:38:04Z",
+            "owner": "mightyiam",
+            "repo": "infra",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dropol/infra",
+          "description": "Pol Dellaiera's configuration of all his home computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-03T15:55:03Z",
+            "owner": "drupol",
+            "repo": "infra",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vic/vix",
+          "description": "Vic's *Nix config with flake-parts and import-tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-04-28T05:53:01Z",
+            "owner": "vic",
+            "repo": "vix",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VTimofeenko/monorepo-machine-config",
+          "description": "Monorepo containing dotfiles and machine configurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-07-31T16:09:17Z",
+            "owner": "VTimofeenko",
+            "repo": "monorepo-machine-config",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dtomvan/puntbestanden",
+          "description": "Tom van Dijk's monolithic, interconnected NixOS/HomeManager/Nixvim configs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-11T08:46:45Z",
+            "owner": "dtomvan",
+            "repo": "puntbestanden",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Personal Dotfiles & Infra repo's using flake-parts"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:53:21.674Z",
+    "original_repository": "wearetechnative/awesome-flake-parts",
+    "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
+    "enhanced_repository": "enhansome/enhansome-flake-parts",
+    "enhanced_repository_description": null,
+    "title": "Awesome Flake Parts with stars"
+  }
+}
