@@ -38,9 +38,9 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 * [devshell](https://github.com/numtide/devshell) ⭐ 1,546 | 🐛 97 | 🌐 Nix | 📅 2026-06-18 - Improved developer shells.
 * [nix-gaming](https://github.com/fufexan/nix-gaming) ⭐ 941 | 🐛 23 | 🌐 Nix | 📅 2026-08-13 - Gaming tools and configurations.
-* [pre-commit-hooks-nix](https://github.com/cachix/pre-commit-hooks.nix) ⭐ 853 | 🐛 89 | 🌐 Nix | 📅 2026-08-11 - Git pre-commit hooks integration.
+* [pre-commit-hooks-nix](https://github.com/cachix/pre-commit-hooks.nix) ⭐ 854 | 🐛 89 | 🌐 Nix | 📅 2026-08-11 - Git pre-commit hooks integration.
 * [services flake](https://github.com/juspay/services-flake) ⭐ 760 | 🐛 57 | 🌐 Nix | 📅 2026-08-11 -  NixOS-like services for Nix as flake modules.
-* [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 637 | 🐛 94 | 🌐 Nix | 📅 2026-08-05 - Declarative formatter configuration.
+* [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 638 | 🐛 94 | 🌐 Nix | 📅 2026-08-05 - Declarative formatter configuration.
 * [nixos-flake](https://github.com/srid/nixos-flake) ⭐ 369 | 🐛 22 | 🌐 Nix | 📅 2026-04-23 - Opinionated NixOS configuration with flake-parts.
 * [nixos-unified](https://github.com/srid/nixos-unified) ⭐ 369 | 🐛 22 | 🌐 Nix | 📅 2026-04-23 - Flake-parts module to unify NixOS + nix-darwin + home-manager configuration in a single flake.
 * [flake-root](https://github.com/srid/flake-root) ⭐ 63 | 🐛 0 | 🌐 Nix | 📅 2024-08-14 - Discover project root directory.
@@ -62,7 +62,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 * [srid/nixos-config](https://github.com/srid/nixos-config) ⭐ 587 | 🐛 4 | 🌐 Nix | 📅 2026-08-13 - NixOS configuration with flake-parts.
 * [mightyiam/infra](https://github.com/mightyiam/infra) ⭐ 196 | 🐛 14 | 🌐 Nix | 📅 2026-08-11 - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
-* [dropol/infra](https://github.com/drupol/infra) ⭐ 145 | 🐛 1 | 🌐 Nix | 📅 2026-08-03 - Pol Dellaiera's configuration of all his home computers.
+* [dropol/infra](https://github.com/drupol/infra) ⭐ 146 | 🐛 1 | 🌐 Nix | 📅 2026-08-03 - Pol Dellaiera's configuration of all his home computers.
 * [vic/vix](https://github.com/vic/vix) ⭐ 93 | 🐛 25 | 🌐 Nix | 📅 2026-04-28 - Vic's \*Nix config with flake-parts and [import-tree](https://github.com/vic/import-tree) ⭐ 318 | 🐛 0 | 🌐 Nix | 📅 2026-07-17.
 * [VTimofeenko/monorepo-machine-config](https://github.com/VTimofeenko/monorepo-machine-config) ⭐ 28 | 🐛 0 | 🌐 Nix | 📅 2026-07-31 - Monorepo containing dotfiles and machine configurations.
 * [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) ⭐ 15 | 🐛 0 | 🌐 Nix | 📅 2026-08-11 - Tom van Dijk's monolithic, interconnected NixOS/HomeManager/Nixvim configs.
@@ -84,4 +84,4 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

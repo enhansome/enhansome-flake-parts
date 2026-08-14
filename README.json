@@ -47,7 +47,7 @@
             "last_commit": "2026-08-11T23:09:59Z",
             "owner": "cachix",
             "repo": "git-hooks.nix",
-            "stars": 853
+            "stars": 854
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-05T16:03:42Z",
             "owner": "numtide",
             "repo": "treefmt-nix",
-            "stars": 637
+            "stars": 638
           }
         },
         {
@@ -266,7 +266,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-13T00:26:58Z",
+            "last_commit": "2026-08-13T22:53:16Z",
             "owner": "srid",
             "repo": "nixos-config",
             "stars": 587
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-03T15:55:03Z",
             "owner": "drupol",
             "repo": "infra",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -357,7 +357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:53:21.674Z",
+    "last_updated": "2026-08-14T10:49:24.537Z",
     "original_repository": "wearetechnative/awesome-flake-parts",
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
     "enhanced_repository": "enhansome/enhansome-flake-parts",
