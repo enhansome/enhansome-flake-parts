@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-16T00:17:33Z",
+            "last_commit": "2026-08-18T08:32:19Z",
             "owner": "juspay",
             "repo": "services-flake",
             "stars": 761
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-16T17:23:51Z",
             "owner": "numtide",
             "repo": "treefmt-nix",
-            "stars": 639
+            "stars": 638
           }
         },
         {
@@ -266,10 +266,10 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-15T21:51:15Z",
+            "last_commit": "2026-08-18T01:35:09Z",
             "owner": "srid",
             "repo": "nixos-config",
-            "stars": 587
+            "stars": 586
           }
         },
         {
@@ -280,7 +280,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-17T02:47:35Z",
+            "last_commit": "2026-08-18T02:55:51Z",
             "owner": "mightyiam",
             "repo": "infra",
             "stars": 198
@@ -357,7 +357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:22:06.573Z",
+    "last_updated": "2026-08-18T10:17:46.414Z",
     "original_repository": "wearetechnative/awesome-flake-parts",
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
     "enhanced_repository": "enhansome/enhansome-flake-parts",
