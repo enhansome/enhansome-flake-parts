@@ -372,8 +372,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:18:58.030Z",
+    "last_updated": "2026-08-19T12:27:56.332Z",
     "original_repository": "wearetechnative/awesome-flake-parts",
+    "original_repository_id": 1004560215,
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
     "enhanced_repository": "enhansome/enhansome-flake-parts",
     "enhanced_repository_description": null,

@@ -38,7 +38,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 * [devshell](https://github.com/numtide/devshell) ⭐ 1,546 | 🐛 97 | 🌐 Nix | 📅 2026-06-18 - Improved developer shells.
 * [nix-gaming](https://github.com/fufexan/nix-gaming) ⭐ 943 | 🐛 22 | 🌐 Nix | 📅 2026-08-16 - Gaming tools and configurations.
-* [pre-commit-hooks-nix](https://github.com/cachix/pre-commit-hooks.nix) ⭐ 854 | 🐛 90 | 🌐 Nix | 📅 2026-08-11 - Git pre-commit hooks integration.
+* [pre-commit-hooks-nix](https://github.com/cachix/pre-commit-hooks.nix) ⭐ 854 | 🐛 91 | 🌐 Nix | 📅 2026-08-11 - Git pre-commit hooks integration.
 * [services flake](https://github.com/juspay/services-flake) ⭐ 761 | 🐛 55 | 🌐 Nix | 📅 2026-08-18 -  NixOS-like services for Nix as flake modules.
 * [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 638 | 🐛 94 | 🌐 Nix | 📅 2026-08-16 - Declarative formatter configuration.
 * [nixos-flake](https://github.com/srid/nixos-flake) ⭐ 369 | 🐛 22 | 🌐 Nix | 📅 2026-04-23 - Opinionated NixOS configuration with flake-parts.
