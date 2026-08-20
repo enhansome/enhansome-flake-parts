@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-18T20:01:15Z",
                 "owner": "numtide",
                 "repo": "devshell",
-                "stars": 1546
+                "stars": 1547
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 394001898,
                 "language": "Nix",
-                "last_commit": "2026-08-16T01:34:49Z",
+                "last_commit": "2026-08-20T01:30:02Z",
                 "owner": "fufexan",
                 "repo": "nix-gaming",
                 "stars": 943
@@ -193,7 +193,7 @@
             "last_commit": "2026-07-31T15:11:40Z",
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-07-17T02:22:40Z",
             "owner": "denful",
             "repo": "import-tree",
-            "stars": 318
+            "stars": 321
           }
         },
         {
@@ -301,7 +301,7 @@
             "archived": false,
             "id": 390228241,
             "language": "Nix",
-            "last_commit": "2026-08-19T03:26:01Z",
+            "last_commit": "2026-08-20T03:44:42Z",
             "owner": "mightyiam",
             "repo": "infra",
             "stars": 198
@@ -319,7 +319,7 @@
             "last_commit": "2026-08-19T07:45:59Z",
             "owner": "drupol",
             "repo": "infra",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -361,7 +361,7 @@
             "archived": false,
             "id": 880866736,
             "language": "Nix",
-            "last_commit": "2026-08-18T20:16:44Z",
+            "last_commit": "2026-08-19T20:46:44Z",
             "owner": "dtomvan",
             "repo": "puntbestanden",
             "stars": 15
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:56.332Z",
+    "last_updated": "2026-08-20T10:19:49.887Z",
     "original_repository": "wearetechnative/awesome-flake-parts",
     "original_repository_id": 1004560215,
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
