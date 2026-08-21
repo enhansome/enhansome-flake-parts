@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-18T17:27:48Z",
                 "owner": "juspay",
                 "repo": "services-flake",
-                "stars": 761
+                "stars": 762
               }
             },
             {
@@ -193,7 +193,7 @@
             "last_commit": "2026-07-31T15:11:40Z",
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -286,7 +286,7 @@
             "archived": false,
             "id": 355283608,
             "language": "Nix",
-            "last_commit": "2026-08-18T01:35:09Z",
+            "last_commit": "2026-08-20T22:39:18Z",
             "owner": "srid",
             "repo": "nixos-config",
             "stars": 586
@@ -301,7 +301,7 @@
             "archived": false,
             "id": 390228241,
             "language": "Nix",
-            "last_commit": "2026-08-20T03:44:42Z",
+            "last_commit": "2026-08-21T09:18:36Z",
             "owner": "mightyiam",
             "repo": "infra",
             "stars": 198
@@ -319,7 +319,7 @@
             "last_commit": "2026-08-19T07:45:59Z",
             "owner": "drupol",
             "repo": "infra",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -361,7 +361,7 @@
             "archived": false,
             "id": 880866736,
             "language": "Nix",
-            "last_commit": "2026-08-19T20:46:44Z",
+            "last_commit": "2026-08-20T21:16:44Z",
             "owner": "dtomvan",
             "repo": "puntbestanden",
             "stars": 15
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:19:49.887Z",
+    "last_updated": "2026-08-21T10:19:42.148Z",
     "original_repository": "wearetechnative/awesome-flake-parts",
     "original_repository_id": 1004560215,
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
