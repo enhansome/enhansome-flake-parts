@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 394001898,
                 "language": "Nix",
-                "last_commit": "2026-08-20T01:30:02Z",
+                "last_commit": "2026-08-22T01:28:11Z",
                 "owner": "fufexan",
                 "repo": "nix-gaming",
                 "stars": 943
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-18T17:27:48Z",
                 "owner": "juspay",
                 "repo": "services-flake",
-                "stars": 762
+                "stars": 763
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-16T17:23:51Z",
                 "owner": "numtide",
                 "repo": "treefmt-nix",
-                "stars": 638
+                "stars": 639
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-04-23T17:03:51Z",
                 "owner": "srid",
                 "repo": "nixos-unified",
-                "stars": 369
+                "stars": 371
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-04-23T17:03:51Z",
                 "owner": "srid",
                 "repo": "nixos-unified",
-                "stars": 369
+                "stars": 371
               }
             },
             {
@@ -193,7 +193,7 @@
             "last_commit": "2026-07-31T15:11:40Z",
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 603
+            "stars": 604
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-07-17T02:22:40Z",
             "owner": "denful",
             "repo": "import-tree",
-            "stars": 321
+            "stars": 322
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-07-28T23:52:27Z",
             "owner": "denful",
             "repo": "flake-file",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-01-27T21:15:20Z",
             "owner": "denful",
             "repo": "dendrix",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -286,7 +286,7 @@
             "archived": false,
             "id": 355283608,
             "language": "Nix",
-            "last_commit": "2026-08-20T22:39:18Z",
+            "last_commit": "2026-08-21T23:44:14Z",
             "owner": "srid",
             "repo": "nixos-config",
             "stars": 586
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-21T09:18:36Z",
             "owner": "mightyiam",
             "repo": "infra",
-            "stars": 198
+            "stars": 200
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2026-04-28T05:53:01Z",
             "owner": "vic",
             "repo": "vix",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -361,7 +361,7 @@
             "archived": false,
             "id": 880866736,
             "language": "Nix",
-            "last_commit": "2026-08-20T21:16:44Z",
+            "last_commit": "2026-08-22T05:53:20Z",
             "owner": "dtomvan",
             "repo": "puntbestanden",
             "stars": 15
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:19:42.148Z",
+    "last_updated": "2026-08-22T10:13:04.137Z",
     "original_repository": "wearetechnative/awesome-flake-parts",
     "original_repository_id": 1004560215,
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
