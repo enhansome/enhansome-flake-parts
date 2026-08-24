@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 394001898,
                 "language": "Nix",
-                "last_commit": "2026-08-23T01:36:30Z",
+                "last_commit": "2026-08-24T01:41:15Z",
                 "owner": "fufexan",
                 "repo": "nix-gaming",
-                "stars": 943
+                "stars": 945
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-23T00:17:52Z",
                 "owner": "juspay",
                 "repo": "services-flake",
-                "stars": 764
+                "stars": 765
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-16T17:23:51Z",
                 "owner": "numtide",
                 "repo": "treefmt-nix",
-                "stars": 639
+                "stars": 640
               }
             },
             {
@@ -286,7 +286,7 @@
             "archived": false,
             "id": 355283608,
             "language": "Nix",
-            "last_commit": "2026-08-22T16:01:05Z",
+            "last_commit": "2026-08-23T19:17:33Z",
             "owner": "srid",
             "repo": "nixos-config",
             "stars": 586
@@ -301,7 +301,7 @@
             "archived": false,
             "id": 390228241,
             "language": "Nix",
-            "last_commit": "2026-08-23T05:56:34Z",
+            "last_commit": "2026-08-24T02:53:31Z",
             "owner": "mightyiam",
             "repo": "infra",
             "stars": 200
@@ -346,7 +346,7 @@
             "archived": false,
             "id": 579125105,
             "language": "Nix",
-            "last_commit": "2026-07-31T16:09:17Z",
+            "last_commit": "2026-08-23T18:44:38Z",
             "owner": "VTimofeenko",
             "repo": "monorepo-machine-config",
             "stars": 28
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:13:36.005Z",
+    "last_updated": "2026-08-24T10:27:42.584Z",
     "original_repository": "wearetechnative/awesome-flake-parts",
     "original_repository_id": 1004560215,
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
