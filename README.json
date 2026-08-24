@@ -4,6 +4,70 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "flake-parts Repository",
+          "description": "Source code and issue tracker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 421747669,
+            "language": "Nix",
+            "last_commit": "2026-08-24T08:19:48Z",
+            "owner": "hercules-ci",
+            "repo": "flake-parts",
+            "stars": 1449
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dendritc Design with the Flake Parts Framework",
+          "description": "A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1091590025,
+            "language": "Nix",
+            "last_commit": "2026-01-28T15:02:29Z",
+            "owner": "Doc-Steve",
+            "repo": "dendritic-design-with-flake-parts",
+            "stars": 433
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "flake-parts/modules",
+              "description": "Built-in modules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 421747669,
+                "language": "Nix",
+                "last_commit": "2026-08-24T08:19:48Z",
+                "owner": "hercules-ci",
+                "repo": "flake-parts",
+                "stars": 1449
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Modules"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -193,7 +257,7 @@
             "last_commit": "2026-07-31T15:11:40Z",
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 606
+            "stars": 607
           }
         },
         {
@@ -286,7 +350,7 @@
             "archived": false,
             "id": 355283608,
             "language": "Nix",
-            "last_commit": "2026-08-23T19:17:33Z",
+            "last_commit": "2026-08-24T14:43:06Z",
             "owner": "srid",
             "repo": "nixos-config",
             "stars": 586
@@ -372,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:27:42.584Z",
+    "last_updated": "2026-08-24T14:48:55.831Z",
     "original_repository": "wearetechnative/awesome-flake-parts",
     "original_repository_id": 1004560215,
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
