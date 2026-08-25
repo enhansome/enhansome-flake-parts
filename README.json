@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T08:19:48Z",
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1449
+            "stars": 1450
           }
         }
       ],
@@ -59,7 +59,7 @@
                 "last_commit": "2026-08-24T08:19:48Z",
                 "owner": "hercules-ci",
                 "repo": "flake-parts",
-                "stars": 1449
+                "stars": 1450
               }
             }
           ],
@@ -81,7 +81,7 @@
                 "last_commit": "2026-06-18T20:01:15Z",
                 "owner": "numtide",
                 "repo": "devshell",
-                "stars": 1547
+                "stars": 1548
               }
             },
             {
@@ -111,7 +111,7 @@
                 "last_commit": "2026-08-22T18:55:39Z",
                 "owner": "cachix",
                 "repo": "git-hooks.nix",
-                "stars": 856
+                "stars": 858
               }
             },
             {
@@ -257,7 +257,7 @@
             "last_commit": "2026-07-31T15:11:40Z",
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 607
+            "stars": 608
           }
         },
         {
@@ -350,7 +350,7 @@
             "archived": false,
             "id": 355283608,
             "language": "Nix",
-            "last_commit": "2026-08-24T14:43:06Z",
+            "last_commit": "2026-08-24T15:05:34Z",
             "owner": "srid",
             "repo": "nixos-config",
             "stars": 586
@@ -425,7 +425,7 @@
             "archived": false,
             "id": 880866736,
             "language": "Nix",
-            "last_commit": "2026-08-23T06:23:21Z",
+            "last_commit": "2026-08-24T15:03:20Z",
             "owner": "dtomvan",
             "repo": "puntbestanden",
             "stars": 15
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:55.831Z",
+    "last_updated": "2026-08-25T06:40:13.518Z",
     "original_repository": "wearetechnative/awesome-flake-parts",
     "original_repository_id": 1004560215,
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
