@@ -81,7 +81,7 @@
                 "last_commit": "2026-06-18T20:01:15Z",
                 "owner": "numtide",
                 "repo": "devshell",
-                "stars": 1548
+                "stars": 1549
               }
             },
             {
@@ -93,7 +93,7 @@
                 "archived": false,
                 "id": 394001898,
                 "language": "Nix",
-                "last_commit": "2026-08-24T01:41:15Z",
+                "last_commit": "2026-08-25T12:39:03Z",
                 "owner": "fufexan",
                 "repo": "nix-gaming",
                 "stars": 945
@@ -111,7 +111,7 @@
                 "last_commit": "2026-08-22T18:55:39Z",
                 "owner": "cachix",
                 "repo": "git-hooks.nix",
-                "stars": 858
+                "stars": 859
               }
             },
             {
@@ -287,7 +287,7 @@
             "last_commit": "2026-07-28T23:52:27Z",
             "owner": "denful",
             "repo": "flake-file",
-            "stars": 145
+            "stars": 144
           }
         },
         {
@@ -350,7 +350,7 @@
             "archived": false,
             "id": 355283608,
             "language": "Nix",
-            "last_commit": "2026-08-24T15:05:34Z",
+            "last_commit": "2026-08-25T18:39:02Z",
             "owner": "srid",
             "repo": "nixos-config",
             "stars": 586
@@ -365,7 +365,7 @@
             "archived": false,
             "id": 390228241,
             "language": "Nix",
-            "last_commit": "2026-08-24T02:53:31Z",
+            "last_commit": "2026-08-25T15:14:03Z",
             "owner": "mightyiam",
             "repo": "infra",
             "stars": 200
@@ -410,7 +410,7 @@
             "archived": false,
             "id": 579125105,
             "language": "Nix",
-            "last_commit": "2026-08-23T18:44:38Z",
+            "last_commit": "2026-08-25T18:30:15Z",
             "owner": "VTimofeenko",
             "repo": "monorepo-machine-config",
             "stars": 28
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:21:43.099Z",
+    "last_updated": "2026-08-26T10:24:53.128Z",
     "original_repository": "wearetechnative/awesome-flake-parts",
     "original_repository_id": 1004560215,
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
