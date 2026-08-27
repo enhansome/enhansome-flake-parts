@@ -141,7 +141,7 @@
                 "last_commit": "2026-08-16T17:23:51Z",
                 "owner": "numtide",
                 "repo": "treefmt-nix",
-                "stars": 640
+                "stars": 641
               }
             },
             {
@@ -257,7 +257,7 @@
             "last_commit": "2026-07-31T15:11:40Z",
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 608
+            "stars": 609
           }
         },
         {
@@ -350,7 +350,7 @@
             "archived": false,
             "id": 355283608,
             "language": "Nix",
-            "last_commit": "2026-08-26T22:04:38Z",
+            "last_commit": "2026-08-27T14:39:50Z",
             "owner": "srid",
             "repo": "nixos-config",
             "stars": 586
@@ -365,10 +365,10 @@
             "archived": false,
             "id": 390228241,
             "language": "Nix",
-            "last_commit": "2026-08-25T15:14:03Z",
+            "last_commit": "2026-08-27T14:36:56Z",
             "owner": "mightyiam",
             "repo": "infra",
-            "stars": 200
+            "stars": 201
           }
         },
         {
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:36.360Z",
+    "last_updated": "2026-08-27T20:03:22.876Z",
     "original_repository_info": {
       "archived": false,
       "id": 1004560215,
