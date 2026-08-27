@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T08:19:48Z",
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1450
+            "stars": 1451
           }
         }
       ],
@@ -59,7 +59,7 @@
                 "last_commit": "2026-08-24T08:19:48Z",
                 "owner": "hercules-ci",
                 "repo": "flake-parts",
-                "stars": 1450
+                "stars": 1451
               }
             }
           ],
@@ -93,10 +93,10 @@
                 "archived": false,
                 "id": 394001898,
                 "language": "Nix",
-                "last_commit": "2026-08-25T12:39:03Z",
+                "last_commit": "2026-08-27T08:32:41Z",
                 "owner": "fufexan",
                 "repo": "nix-gaming",
-                "stars": 945
+                "stars": 946
               }
             },
             {
@@ -108,7 +108,7 @@
                 "archived": false,
                 "id": 202728276,
                 "language": "Nix",
-                "last_commit": "2026-08-22T18:55:39Z",
+                "last_commit": "2026-08-26T18:48:38Z",
                 "owner": "cachix",
                 "repo": "git-hooks.nix",
                 "stars": 859
@@ -287,7 +287,7 @@
             "last_commit": "2026-07-28T23:52:27Z",
             "owner": "denful",
             "repo": "flake-file",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -350,7 +350,7 @@
             "archived": false,
             "id": 355283608,
             "language": "Nix",
-            "last_commit": "2026-08-25T18:39:02Z",
+            "last_commit": "2026-08-26T22:04:38Z",
             "owner": "srid",
             "repo": "nixos-config",
             "stars": 586
@@ -380,7 +380,7 @@
             "archived": false,
             "id": 430072457,
             "language": "Nix",
-            "last_commit": "2026-08-22T18:09:19Z",
+            "last_commit": "2026-08-26T18:13:53Z",
             "owner": "drupol",
             "repo": "infra",
             "stars": 150
@@ -436,9 +436,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:24:53.128Z",
-    "original_repository": "wearetechnative/awesome-flake-parts",
-    "original_repository_id": 1004560215,
+    "last_updated": "2026-08-27T11:36:36.360Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1004560215,
+      "language": null,
+      "last_commit": "2026-04-16T15:49:53Z",
+      "owner": "wearetechnative",
+      "repo": "awesome-flake-parts",
+      "stars": 56
+    },
     "original_repository_sha": "ffb7dd229c25c3cffcc293575be0a4738ec58d37",
     "enhanced_repository": "enhansome/enhansome-flake-parts",
     "enhanced_repository_description": null,
