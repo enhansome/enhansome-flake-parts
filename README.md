@@ -39,7 +39,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 * [devshell](https://github.com/numtide/devshell) ⭐ 1,549 | 🐛 98 | 🌐 Nix | 📅 2026-06-18 - Improved developer shells.
 * [nix-gaming](https://github.com/fufexan/nix-gaming) ⭐ 946 | 🐛 21 | 🌐 Nix | 📅 2026-08-27 - Gaming tools and configurations.
 * [pre-commit-hooks-nix](https://github.com/cachix/pre-commit-hooks.nix) ⭐ 859 | 🐛 91 | 🌐 Nix | 📅 2026-08-26 - Git pre-commit hooks integration.
-* [services flake](https://github.com/juspay/services-flake) ⭐ 765 | 🐛 59 | 🌐 Nix | 📅 2026-08-23 -  NixOS-like services for Nix as flake modules.
+* [services flake](https://github.com/juspay/services-flake) ⭐ 764 | 🐛 59 | 🌐 Nix | 📅 2026-08-23 -  NixOS-like services for Nix as flake modules.
 * [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 640 | 🐛 94 | 🌐 Nix | 📅 2026-08-16 - Declarative formatter configuration.
 * [nixos-flake](https://github.com/srid/nixos-flake) ⭐ 371 | 🐛 22 | 🌐 Nix | 📅 2026-04-23 - Opinionated NixOS configuration with flake-parts.
 * [nixos-unified](https://github.com/srid/nixos-unified) ⭐ 371 | 🐛 22 | 🌐 Nix | 📅 2026-04-23 - Flake-parts module to unify NixOS + nix-darwin + home-manager configuration in a single flake.
@@ -84,4 +84,4 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
