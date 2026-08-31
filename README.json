@@ -19,7 +19,7 @@
             "open_issues": 76,
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1456,
+            "stars": 1458,
             "topics": [
               "flake-parts",
               "flakes",
@@ -52,7 +52,7 @@
             "open_issues": 0,
             "owner": "Doc-Steve",
             "repo": "dendritic-design-with-flake-parts",
-            "stars": 434,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-28T21:01:33.463Z"
@@ -81,7 +81,7 @@
                 "open_issues": 76,
                 "owner": "hercules-ci",
                 "repo": "flake-parts",
-                "stars": 1456,
+                "stars": 1458,
                 "topics": [
                   "flake-parts",
                   "flakes",
@@ -115,7 +115,7 @@
                 "open_issues": 98,
                 "owner": "numtide",
                 "repo": "devshell",
-                "stars": 1549,
+                "stars": 1550,
                 "topics": [
                   "direnv",
                   "nix",
@@ -140,7 +140,7 @@
                 "open_issues": 21,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
-                "stars": 946,
+                "stars": 947,
                 "topics": [
                   "epic",
                   "gaming",
@@ -222,7 +222,7 @@
                 "open_issues": 94,
                 "owner": "numtide",
                 "repo": "treefmt-nix",
-                "stars": 642,
+                "stars": 643,
                 "topics": [
                   "buildbot-numtide",
                   "flake-parts",
@@ -404,7 +404,7 @@
             "open_issues": 1,
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 612,
+            "stars": 615,
             "topics": [
               "flake-parts",
               "nix",
@@ -460,7 +460,7 @@
             "open_issues": 14,
             "owner": "denful",
             "repo": "flake-file",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "dendritic",
               "flake-generator",
@@ -495,7 +495,7 @@
             "open_issues": 1,
             "owner": "denful",
             "repo": "dendrix",
-            "stars": 136,
+            "stars": 135,
             "topics": [
               "configuration-framework",
               "dendritic",
@@ -583,7 +583,7 @@
             "id": 355283608,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-08-29T18:51:49Z",
+            "last_commit": "2026-08-31T14:21:45Z",
             "open_issues": 3,
             "owner": "srid",
             "repo": "nixos-config",
@@ -608,7 +608,7 @@
             "id": 390228241,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T02:48:16Z",
+            "last_commit": "2026-08-31T12:56:53Z",
             "open_issues": 14,
             "owner": "mightyiam",
             "repo": "infra",
@@ -639,7 +639,7 @@
             "open_issues": 2,
             "owner": "drupol",
             "repo": "infra",
-            "stars": 151,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-28T21:01:33.463Z"
@@ -721,7 +721,7 @@
             "id": 880866736,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T07:34:33Z",
+            "last_commit": "2026-08-30T23:54:35Z",
             "open_issues": 0,
             "owner": "dtomvan",
             "repo": "puntbestanden",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:34:22.938Z",
+    "last_updated": "2026-08-31T17:18:10.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
