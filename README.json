@@ -19,7 +19,7 @@
             "open_issues": 76,
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1469,
+            "stars": 1470,
             "topics": [
               "flake-parts",
               "flakes",
@@ -81,7 +81,7 @@
                 "open_issues": 76,
                 "owner": "hercules-ci",
                 "repo": "flake-parts",
-                "stars": 1469,
+                "stars": 1470,
                 "topics": [
                   "flake-parts",
                   "flakes",
@@ -140,7 +140,7 @@
                 "open_issues": 21,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "epic",
                   "gaming",
@@ -608,11 +608,11 @@
             "id": 390228241,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-09-18T12:57:19Z",
+            "last_commit": "2026-09-18T15:10:18Z",
             "open_issues": 14,
             "owner": "mightyiam",
             "repo": "infra",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "flake-parts",
               "infrastructure-as-code",
@@ -639,7 +639,7 @@
             "open_issues": 2,
             "owner": "drupol",
             "repo": "infra",
-            "stars": 155,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-08-28T21:01:33.463Z"
@@ -660,7 +660,7 @@
             "open_issues": 26,
             "owner": "vic",
             "repo": "vix",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "den",
               "dendritic",
@@ -721,7 +721,7 @@
             "id": 880866736,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-09-17T16:09:41Z",
+            "last_commit": "2026-09-19T09:49:14Z",
             "open_issues": 0,
             "owner": "dtomvan",
             "repo": "puntbestanden",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:58:13.752Z",
+    "last_updated": "2026-09-19T13:34:37.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
