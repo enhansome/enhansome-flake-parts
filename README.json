@@ -136,7 +136,7 @@
                 "id": 394001898,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-09-20T04:23:11Z",
+                "last_commit": "2026-09-21T04:18:50Z",
                 "open_issues": 21,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 628,
+            "stars": 630,
             "topics": [
               "flake-parts",
               "nix",
@@ -582,7 +582,7 @@
             "id": 355283608,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-09-17T23:58:20Z",
+            "last_commit": "2026-09-20T22:29:26Z",
             "open_issues": 3,
             "owner": "srid",
             "repo": "nixos-config",
@@ -720,7 +720,7 @@
             "id": 880866736,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-09-20T10:19:16Z",
+            "last_commit": "2026-09-21T02:34:03Z",
             "open_issues": 0,
             "owner": "dtomvan",
             "repo": "puntbestanden",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:48:45.250Z",
+    "last_updated": "2026-09-21T16:05:12.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
