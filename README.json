@@ -19,7 +19,7 @@
             "open_issues": 76,
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1478,
+            "stars": 1482,
             "topics": [
               "flake-parts",
               "flakes",
@@ -81,7 +81,7 @@
                 "open_issues": 76,
                 "owner": "hercules-ci",
                 "repo": "flake-parts",
-                "stars": 1478,
+                "stars": 1482,
                 "topics": [
                   "flake-parts",
                   "flakes",
@@ -192,8 +192,8 @@
                 "id": 655908463,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-09-27T02:12:39Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-28T09:55:37Z",
+                "open_issues": 54,
                 "owner": "juspay",
                 "repo": "services-flake",
                 "stars": 769,
@@ -219,7 +219,7 @@
                 "language": "Nix",
                 "license": "MIT",
                 "last_commit": "2026-08-16T17:23:51Z",
-                "open_issues": 103,
+                "open_issues": 102,
                 "owner": "numtide",
                 "repo": "treefmt-nix",
                 "stars": 654,
@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 635,
+            "stars": 638,
             "topics": [
               "flake-parts",
               "nix",
@@ -430,7 +430,7 @@
             "open_issues": 1,
             "owner": "denful",
             "repo": "import-tree",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "automatic-imports",
               "dendritic",
@@ -582,7 +582,7 @@
             "id": 355283608,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-09-27T13:54:18Z",
+            "last_commit": "2026-09-27T20:54:08Z",
             "open_issues": 2,
             "owner": "srid",
             "repo": "nixos-config",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:54:19.988Z",
+    "last_updated": "2026-09-28T17:52:15.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
