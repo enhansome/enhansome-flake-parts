@@ -50,9 +50,9 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 ## Related Patterns, Frameworks, Utilities and Libraries
 
-* [The Dendritic Pattern](https://github.com/mightyiam/dendritic) ⭐ 638 | 🐛 1 | 📅 2026-09-04 - Nix flake-parts usage pattern in which every Nix file is a flake-parts module.
+* [The Dendritic Pattern](https://github.com/mightyiam/dendritic) ⭐ 639 | 🐛 1 | 📅 2026-09-04 - Nix flake-parts usage pattern in which every Nix file is a flake-parts module.
 * [import-tree](https://github.com/vic/import-tree) ⭐ 341 | 🐛 1 | 🌐 Nix | 📅 2026-09-03 - Import all nix files in a directory tree.
-* [flake-file](https://github.com/vic/flake-file) ⭐ 157 | 🐛 13 | 🌐 Nix | 📅 2026-09-29 - Dynamically generate your flake.nix from flake-parts modules.
+* [flake-file](https://github.com/vic/flake-file) ⭐ 158 | 🐛 13 | 🌐 Nix | 📅 2026-09-29 - Dynamically generate your flake.nix from flake-parts modules.
 * [Dendritic Nix](https://github.com/vic/dennix) ⭐ 138 | 🐛 1 | 🌐 Nix | 📅 2026-01-27 - Community-driven Nix distribution based on the Dendritic pattern.
 * [Flake-parts Builder](https://github.com/tsandrini/flake-parts-builder) ⭐ 48 | 🐛 14 | 🌐 Rust | 📅 2025-11-24 - Nix flakes interactive template builder based on flake-parts written in Rust.
 * [Flake-Parts-Graph (fpg)](https://github.com/giomf/flake-parts-graph) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2026-09-22 - Visualize flake-parts module dependency graphs.
@@ -84,4 +84,4 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

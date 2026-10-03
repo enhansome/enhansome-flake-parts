@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "flake-parts",
               "nix",
@@ -459,7 +459,7 @@
             "open_issues": 13,
             "owner": "denful",
             "repo": "flake-file",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "dendritic",
               "flake-generator",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:01:13.633Z",
+    "last_updated": "2026-10-03T04:45:16.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
