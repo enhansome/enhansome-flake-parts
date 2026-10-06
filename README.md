@@ -60,7 +60,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 ## Personal Dotfiles & Infra repo's using flake-parts
 
-* [srid/nixos-config](https://github.com/srid/nixos-config) ⭐ 590 | 🐛 2 | 🌐 Nix | 📅 2026-10-05 - NixOS configuration with flake-parts.
+* [srid/nixos-config](https://github.com/srid/nixos-config) ⭐ 590 | 🐛 2 | 🌐 Nix | 📅 2026-10-06 - NixOS configuration with flake-parts.
 * [mightyiam/infra](https://github.com/mightyiam/infra) ⭐ 208 | 🐛 14 | 🌐 Nix | 📅 2026-10-05 - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
 * [dropol/infra](https://github.com/drupol/infra) ⭐ 158 | 🐛 2 | 🌐 Nix | 📅 2026-09-11 - Pol Dellaiera's configuration of all his home computers.
 * [vic/vix](https://github.com/vic/vix) ⭐ 104 | 🐛 27 | 🌐 Nix | 📅 2026-04-28 - Vic's \*Nix config with flake-parts and [import-tree](https://github.com/vic/import-tree) ⭐ 345 | 🐛 1 | 🌐 Nix | 📅 2026-09-03.
