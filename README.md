@@ -19,7 +19,7 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 ## Tutorials
 
-* [Dendritc Design with the Flake Parts Framework](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) ⭐ 456 | 🐛 0 | 🌐 Nix | 📅 2026-01-28 - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern.
+* [Dendritc Design with the Flake Parts Framework](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) ⭐ 455 | 🐛 0 | 🌐 Nix | 📅 2026-01-28 - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern.
 * [flake-parts to set up nodejs devshell](https://blog.eigenvalue.net/2024-flake-parts-nodejs-devshell/) - Tutorial about using flake-parts to set up a nodejs devshell.
 * [Flake-parts: writing custom flake modules](https://vtimofeenko.com/posts/flake-parts-writing-custom-flake-modules/) - Primer on writing flake-parts reusable flake modules.
 
@@ -36,23 +36,23 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 ### Community Modules
 
-* [devshell](https://github.com/numtide/devshell) ⭐ 1,559 | 🐛 98 | 🌐 Nix | 📅 2026-09-02 - Improved developer shells.
+* [devshell](https://github.com/numtide/devshell) ⭐ 1,560 | 🐛 98 | 🌐 Nix | 📅 2026-09-02 - Improved developer shells.
 * [nix-gaming](https://github.com/fufexan/nix-gaming) ⭐ 955 | 🐛 20 | 🌐 Nix | 📅 2026-10-07 - Gaming tools and configurations.
-* [pre-commit-hooks-nix](https://github.com/cachix/pre-commit-hooks.nix) ⭐ 873 | 🐛 100 | 🌐 Nix | 📅 2026-10-01 - Git pre-commit hooks integration.
-* [services flake](https://github.com/juspay/services-flake) ⭐ 769 | 🐛 52 | 🌐 Nix | 📅 2026-10-07 -  NixOS-like services for Nix as flake modules.
-* [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 659 | 🐛 88 | 🌐 Nix | 📅 2026-10-05 - Declarative formatter configuration.
+* [pre-commit-hooks-nix](https://github.com/cachix/pre-commit-hooks.nix) ⭐ 873 | 🐛 101 | 🌐 Nix | 📅 2026-10-01 - Git pre-commit hooks integration.
+* [services flake](https://github.com/juspay/services-flake) ⭐ 770 | 🐛 52 | 🌐 Nix | 📅 2026-10-07 -  NixOS-like services for Nix as flake modules.
+* [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 660 | 🐛 85 | 🌐 Nix | 📅 2026-10-08 - Declarative formatter configuration.
 * [nixos-flake](https://github.com/srid/nixos-flake) ⭐ 374 | 🐛 22 | 🌐 Nix | 📅 2026-09-10 - Opinionated NixOS configuration with flake-parts.
 * [nixos-unified](https://github.com/srid/nixos-unified) ⭐ 374 | 🐛 22 | 🌐 Nix | 📅 2026-09-10 - Flake-parts module to unify NixOS + nix-darwin + home-manager configuration in a single flake.
 * [flake-root](https://github.com/srid/flake-root) ⭐ 65 | 🐛 0 | 🌐 Nix | 📅 2024-08-14 - Discover project root directory.
 * [hercules-ci-effects](https://github.com/hercules-ci/hercules-ci-effects) ⭐ 34 | 🐛 40 | 🌐 Nix | 📅 2026-09-15 - CI/CD integration for flake-parts.
-* [community.flake.parts](https://github.com/flake-parts/community.flake.parts) ⭐ 31 | 🐛 3 | 🌐 Nix | 📅 2026-10-06 - A Community website with links to several flake-module projects.
+* [community.flake.parts](https://github.com/flake-parts/community.flake.parts) ⭐ 31 | 🐛 3 | 🌐 Nix | 📅 2026-10-07 - A Community website with links to several flake-module projects.
 * [VTimofeenko/flake-modules](https://github.com/VTimofeenko/flake-modules) ⭐ 2 | 🐛 1 | 🌐 Nix | 📅 2026-09-08 - A collection of reusable flake modules, incl. a nice inputs bumber.
 
 ## Related Patterns, Frameworks, Utilities and Libraries
 
-* [The Dendritic Pattern](https://github.com/mightyiam/dendritic) ⭐ 641 | 🐛 1 | 📅 2026-09-04 - Nix flake-parts usage pattern in which every Nix file is a flake-parts module.
-* [import-tree](https://github.com/vic/import-tree) ⭐ 345 | 🐛 1 | 🌐 Nix | 📅 2026-09-03 - Import all nix files in a directory tree.
-* [flake-file](https://github.com/vic/flake-file) ⭐ 159 | 🐛 12 | 🌐 Nix | 📅 2026-10-06 - Dynamically generate your flake.nix from flake-parts modules.
+* [The Dendritic Pattern](https://github.com/mightyiam/dendritic) ⭐ 642 | 🐛 1 | 📅 2026-09-04 - Nix flake-parts usage pattern in which every Nix file is a flake-parts module.
+* [import-tree](https://github.com/vic/import-tree) ⭐ 346 | 🐛 1 | 🌐 Nix | 📅 2026-09-03 - Import all nix files in a directory tree.
+* [flake-file](https://github.com/vic/flake-file) ⭐ 160 | 🐛 12 | 🌐 Nix | 📅 2026-10-06 - Dynamically generate your flake.nix from flake-parts modules.
 * [Dendritic Nix](https://github.com/vic/dennix) ⭐ 138 | 🐛 1 | 🌐 Nix | 📅 2026-01-27 - Community-driven Nix distribution based on the Dendritic pattern.
 * [Flake-parts Builder](https://github.com/tsandrini/flake-parts-builder) ⭐ 48 | 🐛 14 | 🌐 Rust | 📅 2025-11-24 - Nix flakes interactive template builder based on flake-parts written in Rust.
 * [Flake-Parts-Graph (fpg)](https://github.com/giomf/flake-parts-graph) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-09-22 - Visualize flake-parts module dependency graphs.
@@ -60,11 +60,11 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 ## Personal Dotfiles & Infra repo's using flake-parts
 
-* [srid/nixos-config](https://github.com/srid/nixos-config) ⭐ 590 | 🐛 2 | 🌐 Nix | 📅 2026-10-07 - NixOS configuration with flake-parts.
-* [mightyiam/infra](https://github.com/mightyiam/infra) ⭐ 208 | 🐛 14 | 🌐 Nix | 📅 2026-10-07 - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
+* [srid/nixos-config](https://github.com/srid/nixos-config) ⭐ 590 | 🐛 3 | 🌐 Nix | 📅 2026-10-08 - NixOS configuration with flake-parts.
+* [mightyiam/infra](https://github.com/mightyiam/infra) ⭐ 208 | 🐛 14 | 🌐 Nix | 📅 2026-10-08 - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
 * [dropol/infra](https://github.com/drupol/infra) ⭐ 158 | 🐛 2 | 🌐 Nix | 📅 2026-09-11 - Pol Dellaiera's configuration of all his home computers.
-* [vic/vix](https://github.com/vic/vix) ⭐ 104 | 🐛 27 | 🌐 Nix | 📅 2026-04-28 - Vic's \*Nix config with flake-parts and [import-tree](https://github.com/vic/import-tree) ⭐ 345 | 🐛 1 | 🌐 Nix | 📅 2026-09-03.
-* [VTimofeenko/monorepo-machine-config](https://github.com/VTimofeenko/monorepo-machine-config) ⭐ 28 | 🐛 0 | 🌐 Nix | 📅 2026-09-16 - Monorepo containing dotfiles and machine configurations.
+* [vic/vix](https://github.com/vic/vix) ⭐ 104 | 🐛 27 | 🌐 Nix | 📅 2026-04-28 - Vic's \*Nix config with flake-parts and [import-tree](https://github.com/vic/import-tree) ⭐ 346 | 🐛 1 | 🌐 Nix | 📅 2026-09-03.
+* [VTimofeenko/monorepo-machine-config](https://github.com/VTimofeenko/monorepo-machine-config) ⭐ 28 | 🐛 0 | 🌐 Nix | 📅 2026-10-07 - Monorepo containing dotfiles and machine configurations.
 * [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) ⭐ 15 | 🐛 0 | 🌐 Nix | 📅 2026-10-05 - Tom van Dijk's monolithic, interconnected NixOS/HomeManager/Nixvim configs.
 * [quasigod/nixconfig](https://codeberg.org/quasigod/nixconfig) - NixOS and Home Manager configurations with flake-parts and [unify](https://codeberg.org/quasigod/unify/).
 
@@ -84,4 +84,4 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
