@@ -19,7 +19,7 @@
             "open_issues": 76,
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1489,
+            "stars": 1490,
             "topics": [
               "flake-parts",
               "flakes",
@@ -81,7 +81,7 @@
                 "open_issues": 76,
                 "owner": "hercules-ci",
                 "repo": "flake-parts",
-                "stars": 1489,
+                "stars": 1490,
                 "topics": [
                   "flake-parts",
                   "flakes",
@@ -111,7 +111,7 @@
                 "id": 285092401,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-09-02T09:56:42Z",
+                "last_commit": "2026-10-08T20:16:14Z",
                 "open_issues": 98,
                 "owner": "numtide",
                 "repo": "devshell",
@@ -136,7 +136,7 @@
                 "id": 394001898,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-10-07T05:17:17Z",
+                "last_commit": "2026-10-09T05:30:34Z",
                 "open_issues": 20,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
@@ -196,7 +196,7 @@
                 "open_issues": 52,
                 "owner": "juspay",
                 "repo": "services-flake",
-                "stars": 770,
+                "stars": 772,
                 "topics": [
                   "flake-parts",
                   "flakes",
@@ -218,7 +218,7 @@
                 "id": 540363138,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-10-08T15:56:26Z",
+                "last_commit": "2026-10-09T14:32:49Z",
                 "open_issues": 85,
                 "owner": "numtide",
                 "repo": "treefmt-nix",
@@ -247,7 +247,7 @@
                 "open_issues": 22,
                 "owner": "srid",
                 "repo": "nixos-unified",
-                "stars": 374,
+                "stars": 376,
                 "topics": [
                   "flake-parts",
                   "home-manager",
@@ -273,7 +273,7 @@
                 "open_issues": 22,
                 "owner": "srid",
                 "repo": "nixos-unified",
-                "stars": 374,
+                "stars": 376,
                 "topics": [
                   "flake-parts",
                   "home-manager",
@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 642,
+            "stars": 644,
             "topics": [
               "flake-parts",
               "nix",
@@ -557,7 +557,7 @@
             "open_issues": 0,
             "owner": "giomf",
             "repo": "NixoScope",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "nixos"
             ]
@@ -582,7 +582,7 @@
             "id": 355283608,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-08T16:58:18Z",
+            "last_commit": "2026-10-09T15:04:56Z",
             "open_issues": 3,
             "owner": "srid",
             "repo": "nixos-config",
@@ -611,7 +611,7 @@
             "open_issues": 14,
             "owner": "mightyiam",
             "repo": "infra",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "flake-parts",
               "infrastructure-as-code",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:04:43.968Z",
+    "last_updated": "2026-10-09T16:42:16.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
@@ -746,7 +746,7 @@
       "open_issues": 0,
       "owner": "wearetechnative",
       "repo": "awesome-flake-parts",
-      "stars": 58,
+      "stars": 59,
       "topics": [
         "awesome",
         "awesome-list",
