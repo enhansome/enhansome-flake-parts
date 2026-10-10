@@ -136,7 +136,7 @@
                 "id": 394001898,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-10-09T05:30:34Z",
+                "last_commit": "2026-10-10T05:14:45Z",
                 "open_issues": 20,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
@@ -172,7 +172,7 @@
                 "open_issues": 101,
                 "owner": "cachix",
                 "repo": "git-hooks.nix",
-                "stars": 873,
+                "stars": 872,
                 "topics": [
                   "nix",
                   "pre-commit"
@@ -196,7 +196,7 @@
                 "open_issues": 52,
                 "owner": "juspay",
                 "repo": "services-flake",
-                "stars": 772,
+                "stars": 774,
                 "topics": [
                   "flake-parts",
                   "flakes",
@@ -218,11 +218,11 @@
                 "id": 540363138,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-10-09T14:32:49Z",
+                "last_commit": "2026-10-09T19:03:01Z",
                 "open_issues": 85,
                 "owner": "numtide",
                 "repo": "treefmt-nix",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "flake-parts",
                   "nix",
@@ -299,7 +299,7 @@
                 "open_issues": 0,
                 "owner": "srid",
                 "repo": "flake-root",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "flake-parts",
                   "nix"
@@ -455,8 +455,8 @@
             "id": 1012384979,
             "language": "Nix",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T18:26:18Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-09T20:06:28Z",
+            "open_issues": 11,
             "owner": "denful",
             "repo": "flake-file",
             "stars": 160,
@@ -582,7 +582,7 @@
             "id": 355283608,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-09T15:04:56Z",
+            "last_commit": "2026-10-09T21:59:51Z",
             "open_issues": 3,
             "owner": "srid",
             "repo": "nixos-config",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:42:16.639Z",
+    "last_updated": "2026-10-10T15:37:59.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
