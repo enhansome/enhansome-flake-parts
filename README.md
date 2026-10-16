@@ -36,8 +36,8 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 ### Community Modules
 
-* [devshell](https://github.com/numtide/devshell) ⭐ 1,563 | 🐛 97 | 🌐 Nix | 📅 2026-10-13 - Improved developer shells.
-* [nix-gaming](https://github.com/fufexan/nix-gaming) ⭐ 957 | 🐛 20 | 🌐 Nix | 📅 2026-10-14 - Gaming tools and configurations.
+* [devshell](https://github.com/numtide/devshell) ⭐ 1,565 | 🐛 97 | 🌐 Nix | 📅 2026-10-15 - Improved developer shells.
+* [nix-gaming](https://github.com/fufexan/nix-gaming) ⭐ 958 | 🐛 20 | 🌐 Nix | 📅 2026-10-14 - Gaming tools and configurations.
 * [pre-commit-hooks-nix](https://github.com/cachix/pre-commit-hooks.nix) ⭐ 872 | 🐛 99 | 🌐 Nix | 📅 2026-10-13 - Git pre-commit hooks integration.
 * [services flake](https://github.com/juspay/services-flake) ⭐ 776 | 🐛 53 | 🌐 Nix | 📅 2026-10-11 -  NixOS-like services for Nix as flake modules.
 * [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 660 | 🐛 86 | 🌐 Nix | 📅 2026-10-13 - Declarative formatter configuration.
@@ -60,8 +60,8 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 ## Personal Dotfiles & Infra repo's using flake-parts
 
-* [srid/nixos-config](https://github.com/srid/nixos-config) ⭐ 589 | 🐛 3 | 🌐 Nix | 📅 2026-10-15 - NixOS configuration with flake-parts.
-* [mightyiam/infra](https://github.com/mightyiam/infra) ⭐ 209 | 🐛 14 | 🌐 Nix | 📅 2026-10-11 - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
+* [srid/nixos-config](https://github.com/srid/nixos-config) ⭐ 589 | 🐛 3 | 🌐 Nix | 📅 2026-10-16 - NixOS configuration with flake-parts.
+* [mightyiam/infra](https://github.com/mightyiam/infra) ⭐ 209 | 🐛 14 | 🌐 Nix | 📅 2026-10-16 - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
 * [dropol/infra](https://github.com/drupol/infra) ⭐ 158 | 🐛 2 | 🌐 Nix | 📅 2026-09-11 - Pol Dellaiera's configuration of all his home computers.
 * [vic/vix](https://github.com/vic/vix) ⭐ 104 | 🐛 27 | 🌐 JavaScript | 📅 2026-10-15 - Vic's \*Nix config with flake-parts and [import-tree](https://github.com/vic/import-tree) ⭐ 347 | 🐛 1 | 🌐 Nix | 📅 2026-10-12.
 * [VTimofeenko/monorepo-machine-config](https://github.com/VTimofeenko/monorepo-machine-config) ⭐ 28 | 🐛 0 | 🌐 Nix | 📅 2026-10-11 - Monorepo containing dotfiles and machine configurations.
@@ -84,4 +84,4 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
