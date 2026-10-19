@@ -136,11 +136,11 @@
                 "id": 394001898,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-10-18T03:44:37Z",
+                "last_commit": "2026-10-19T07:41:45Z",
                 "open_issues": 20,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
-                "stars": 959,
+                "stars": 960,
                 "topics": [
                   "epic",
                   "gaming",
@@ -172,7 +172,7 @@
                 "open_issues": 99,
                 "owner": "cachix",
                 "repo": "git-hooks.nix",
-                "stars": 872,
+                "stars": 873,
                 "topics": [
                   "nix",
                   "pre-commit"
@@ -193,7 +193,7 @@
                 "language": "Nix",
                 "license": "MIT",
                 "last_commit": "2026-10-18T02:00:02Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "juspay",
                 "repo": "services-flake",
                 "stars": 777,
@@ -430,7 +430,7 @@
             "open_issues": 1,
             "owner": "denful",
             "repo": "import-tree",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "automatic-imports",
               "dendritic",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:40:05.888Z",
+    "last_updated": "2026-10-19T16:41:53.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
