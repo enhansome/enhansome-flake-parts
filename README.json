@@ -19,7 +19,7 @@
             "open_issues": 76,
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1501,
+            "stars": 1502,
             "topics": [
               "flake-parts",
               "flakes",
@@ -81,7 +81,7 @@
                 "open_issues": 76,
                 "owner": "hercules-ci",
                 "repo": "flake-parts",
-                "stars": 1501,
+                "stars": 1502,
                 "topics": [
                   "flake-parts",
                   "flakes",
@@ -115,7 +115,7 @@
                 "open_issues": 97,
                 "owner": "numtide",
                 "repo": "devshell",
-                "stars": 1565,
+                "stars": 1566,
                 "topics": [
                   "direnv",
                   "nix",
@@ -140,7 +140,7 @@
                 "open_issues": 20,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
-                "stars": 962,
+                "stars": 963,
                 "topics": [
                   "epic",
                   "gaming",
@@ -247,7 +247,7 @@
                 "open_issues": 22,
                 "owner": "srid",
                 "repo": "nixos-unified",
-                "stars": 376,
+                "stars": 377,
                 "topics": [
                   "flake-parts",
                   "home-manager",
@@ -273,7 +273,7 @@
                 "open_issues": 22,
                 "owner": "srid",
                 "repo": "nixos-unified",
-                "stars": 376,
+                "stars": 377,
                 "topics": [
                   "flake-parts",
                   "home-manager",
@@ -582,7 +582,7 @@
             "id": 355283608,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-19T23:10:41Z",
+            "last_commit": "2026-10-21T12:22:49Z",
             "open_issues": 3,
             "owner": "srid",
             "repo": "nixos-config",
@@ -720,7 +720,7 @@
             "id": 880866736,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-18T07:09:41Z",
+            "last_commit": "2026-10-20T16:14:11Z",
             "open_issues": 0,
             "owner": "dtomvan",
             "repo": "puntbestanden",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:34:04.351Z",
+    "last_updated": "2026-10-21T14:45:31.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
