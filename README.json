@@ -19,7 +19,7 @@
             "open_issues": 76,
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1505,
+            "stars": 1507,
             "topics": [
               "flake-parts",
               "flakes",
@@ -52,7 +52,7 @@
             "open_issues": 0,
             "owner": "Doc-Steve",
             "repo": "dendritic-design-with-flake-parts",
-            "stars": 461,
+            "stars": 462,
             "topics": []
           },
           "first_seen": "2026-08-28T21:01:33.463Z"
@@ -81,7 +81,7 @@
                 "open_issues": 76,
                 "owner": "hercules-ci",
                 "repo": "flake-parts",
-                "stars": 1505,
+                "stars": 1507,
                 "topics": [
                   "flake-parts",
                   "flakes",
@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 655,
+            "stars": 656,
             "topics": [
               "flake-parts",
               "nix",
@@ -459,7 +459,7 @@
             "open_issues": 6,
             "owner": "denful",
             "repo": "flake-file",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "dendritic",
               "flake-generator",
@@ -655,7 +655,7 @@
             "id": 316862000,
             "language": "Nix",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T09:38:42Z",
+            "last_commit": "2026-10-26T10:50:38Z",
             "open_issues": 1,
             "owner": "vic",
             "repo": "vix",
@@ -720,7 +720,7 @@
             "id": 880866736,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-25T10:04:10Z",
+            "last_commit": "2026-10-26T02:15:32Z",
             "open_issues": 0,
             "owner": "dtomvan",
             "repo": "puntbestanden",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:00:19.527Z",
+    "last_updated": "2026-10-26T16:22:08.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
@@ -746,7 +746,7 @@
       "open_issues": 0,
       "owner": "wearetechnative",
       "repo": "awesome-flake-parts",
-      "stars": 62,
+      "stars": 63,
       "topics": [
         "awesome",
         "awesome-list",
