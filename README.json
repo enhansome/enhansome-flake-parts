@@ -172,7 +172,7 @@
                 "open_issues": 99,
                 "owner": "cachix",
                 "repo": "git-hooks.nix",
-                "stars": 875,
+                "stars": 876,
                 "topics": [
                   "nix",
                   "pre-commit"
@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 656,
+            "stars": 658,
             "topics": [
               "flake-parts",
               "nix",
@@ -430,7 +430,7 @@
             "open_issues": 1,
             "owner": "denful",
             "repo": "import-tree",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "automatic-imports",
               "dendritic",
@@ -582,7 +582,7 @@
             "id": 355283608,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-23T19:37:30Z",
+            "last_commit": "2026-10-28T13:26:04Z",
             "open_issues": 3,
             "owner": "srid",
             "repo": "nixos-config",
@@ -607,7 +607,7 @@
             "id": 390228241,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-18T04:51:47Z",
+            "last_commit": "2026-10-28T00:53:47Z",
             "open_issues": 14,
             "owner": "mightyiam",
             "repo": "infra",
@@ -655,8 +655,8 @@
             "id": 316862000,
             "language": "Nix",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T10:16:49Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-28T14:42:54Z",
+            "open_issues": 0,
             "owner": "vic",
             "repo": "vix",
             "stars": 103,
@@ -695,7 +695,7 @@
             "id": 579125105,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-27T04:52:05Z",
+            "last_commit": "2026-10-27T19:05:28Z",
             "open_issues": 0,
             "owner": "VTimofeenko",
             "repo": "monorepo-machine-config",
@@ -720,7 +720,7 @@
             "id": 880866736,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-26T02:15:32Z",
+            "last_commit": "2026-10-28T03:15:33Z",
             "open_issues": 0,
             "owner": "dtomvan",
             "repo": "puntbestanden",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:36:35.772Z",
+    "last_updated": "2026-10-28T16:21:13.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
