@@ -19,7 +19,7 @@
             "open_issues": 76,
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1509,
+            "stars": 1511,
             "topics": [
               "flake-parts",
               "flakes",
@@ -52,7 +52,7 @@
             "open_issues": 0,
             "owner": "Doc-Steve",
             "repo": "dendritic-design-with-flake-parts",
-            "stars": 464,
+            "stars": 465,
             "topics": []
           },
           "first_seen": "2026-08-28T21:01:33.463Z"
@@ -81,7 +81,7 @@
                 "open_issues": 76,
                 "owner": "hercules-ci",
                 "repo": "flake-parts",
-                "stars": 1509,
+                "stars": 1511,
                 "topics": [
                   "flake-parts",
                   "flakes",
@@ -140,7 +140,7 @@
                 "open_issues": 20,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
-                "stars": 963,
+                "stars": 964,
                 "topics": [
                   "epic",
                   "gaming",
@@ -172,7 +172,7 @@
                 "open_issues": 99,
                 "owner": "cachix",
                 "repo": "git-hooks.nix",
-                "stars": 876,
+                "stars": 877,
                 "topics": [
                   "nix",
                   "pre-commit"
@@ -196,7 +196,7 @@
                 "open_issues": 55,
                 "owner": "juspay",
                 "repo": "services-flake",
-                "stars": 778,
+                "stars": 780,
                 "topics": [
                   "flake-parts",
                   "flakes",
@@ -247,7 +247,7 @@
                 "open_issues": 22,
                 "owner": "srid",
                 "repo": "nixos-unified",
-                "stars": 377,
+                "stars": 378,
                 "topics": [
                   "flake-parts",
                   "home-manager",
@@ -273,7 +273,7 @@
                 "open_issues": 22,
                 "owner": "srid",
                 "repo": "nixos-unified",
-                "stars": 377,
+                "stars": 378,
                 "topics": [
                   "flake-parts",
                   "home-manager",
@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 659,
+            "stars": 661,
             "topics": [
               "flake-parts",
               "nix",
@@ -582,7 +582,7 @@
             "id": 355283608,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-28T13:26:04Z",
+            "last_commit": "2026-10-29T23:34:04Z",
             "open_issues": 3,
             "owner": "srid",
             "repo": "nixos-config",
@@ -607,7 +607,7 @@
             "id": 390228241,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-28T00:53:47Z",
+            "last_commit": "2026-10-30T07:38:47Z",
             "open_issues": 14,
             "owner": "mightyiam",
             "repo": "infra",
@@ -655,8 +655,8 @@
             "id": 316862000,
             "language": "Nix",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T11:22:19Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-30T11:14:41Z",
+            "open_issues": 1,
             "owner": "vic",
             "repo": "vix",
             "stars": 103,
@@ -720,7 +720,7 @@
             "id": 880866736,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-28T03:15:33Z",
+            "last_commit": "2026-10-29T20:05:33Z",
             "open_issues": 0,
             "owner": "dtomvan",
             "repo": "puntbestanden",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:30:24.251Z",
+    "last_updated": "2026-10-30T16:22:17.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
