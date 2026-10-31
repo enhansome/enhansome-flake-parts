@@ -136,11 +136,11 @@
                 "id": 394001898,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-10-29T05:10:40Z",
+                "last_commit": "2026-10-31T04:55:28Z",
                 "open_issues": 20,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
-                "stars": 964,
+                "stars": 965,
                 "topics": [
                   "epic",
                   "gaming",
@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "mightyiam",
             "repo": "dendritic",
-            "stars": 661,
+            "stars": 664,
             "topics": [
               "flake-parts",
               "nix",
@@ -582,7 +582,7 @@
             "id": 355283608,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-29T23:34:04Z",
+            "last_commit": "2026-10-31T15:12:21Z",
             "open_issues": 3,
             "owner": "srid",
             "repo": "nixos-config",
@@ -655,7 +655,7 @@
             "id": 316862000,
             "language": "Nix",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T11:14:41Z",
+            "last_commit": "2026-10-31T10:46:41Z",
             "open_issues": 1,
             "owner": "vic",
             "repo": "vix",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:22:17.232Z",
+    "last_updated": "2026-10-31T15:32:28.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
