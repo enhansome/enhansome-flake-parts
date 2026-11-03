@@ -37,10 +37,10 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 ### Community Modules
 
 * [devshell](https://github.com/numtide/devshell) ⭐ 1,568 | 🐛 97 | 🌐 Nix | 📅 2026-10-15 - Improved developer shells.
-* [nix-gaming](https://github.com/fufexan/nix-gaming) ⭐ 967 | 🐛 20 | 🌐 Nix | 📅 2026-11-01 - Gaming tools and configurations.
-* [pre-commit-hooks-nix](https://github.com/cachix/pre-commit-hooks.nix) ⭐ 878 | 🐛 102 | 🌐 Nix | 📅 2026-10-26 - Git pre-commit hooks integration.
-* [services flake](https://github.com/juspay/services-flake) ⭐ 780 | 🐛 58 | 🌐 Nix | 📅 2026-11-01 -  NixOS-like services for Nix as flake modules.
-* [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 662 | 🐛 89 | 🌐 Nix | 📅 2026-10-13 - Declarative formatter configuration.
+* [nix-gaming](https://github.com/fufexan/nix-gaming) ⭐ 967 | 🐛 20 | 🌐 Nix | 📅 2026-11-03 - Gaming tools and configurations.
+* [pre-commit-hooks-nix](https://github.com/cachix/pre-commit-hooks.nix) ⭐ 880 | 🐛 102 | 🌐 Nix | 📅 2026-11-03 - Git pre-commit hooks integration.
+* [services flake](https://github.com/juspay/services-flake) ⭐ 780 | 🐛 59 | 🌐 Nix | 📅 2026-11-01 -  NixOS-like services for Nix as flake modules.
+* [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 662 | 🐛 90 | 🌐 Nix | 📅 2026-10-13 - Declarative formatter configuration.
 * [nixos-flake](https://github.com/srid/nixos-flake) ⭐ 378 | 🐛 22 | 🌐 Nix | 📅 2026-10-12 - Opinionated NixOS configuration with flake-parts.
 * [nixos-unified](https://github.com/srid/nixos-unified) ⭐ 378 | 🐛 22 | 🌐 Nix | 📅 2026-10-12 - Flake-parts module to unify NixOS + nix-darwin + home-manager configuration in a single flake.
 * [flake-root](https://github.com/srid/flake-root) ⭐ 66 | 🐛 0 | 🌐 Nix | 📅 2024-08-14 - Discover project root directory.
@@ -60,12 +60,12 @@ A curated list of awesome [flake-parts](https://flake.parts/) resources, modules
 
 ## Personal Dotfiles & Infra repo's using flake-parts
 
-* [srid/nixos-config](https://github.com/srid/nixos-config) ⭐ 590 | 🐛 3 | 🌐 Nix | 📅 2026-11-02 - NixOS configuration with flake-parts.
-* [mightyiam/infra](https://github.com/mightyiam/infra) ⭐ 209 | 🐛 14 | 🌐 Nix | 📅 2026-11-01 - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
+* [srid/nixos-config](https://github.com/srid/nixos-config) ⭐ 590 | 🐛 3 | 🌐 Nix | 📅 2026-11-03 - NixOS configuration with flake-parts.
+* [mightyiam/infra](https://github.com/mightyiam/infra) ⭐ 210 | 🐛 14 | 🌐 Nix | 📅 2026-11-01 - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository.
 * [dropol/infra](https://github.com/drupol/infra) ⭐ 158 | 🐛 2 | 🌐 Nix | 📅 2026-10-18 - Pol Dellaiera's configuration of all his home computers.
-* [vic/vix](https://github.com/vic/vix) ⭐ 103 | 🐛 1 | 🌐 Nix | 📅 2026-11-02 - Vic's \*Nix config with flake-parts and [import-tree](https://github.com/vic/import-tree) ⭐ 355 | 🐛 1 | 🌐 Nix | 📅 2026-10-12.
-* [VTimofeenko/monorepo-machine-config](https://github.com/VTimofeenko/monorepo-machine-config) ⭐ 28 | 🐛 0 | 🌐 Nix | 📅 2026-11-02 - Monorepo containing dotfiles and machine configurations.
-* [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) ⭐ 15 | 🐛 0 | 🌐 Nix | 📅 2026-11-02 - Tom van Dijk's monolithic, interconnected NixOS/HomeManager/Nixvim configs.
+* [vic/vix](https://github.com/vic/vix) ⭐ 103 | 🐛 2 | 🌐 Nix | 📅 2026-11-03 - Vic's \*Nix config with flake-parts and [import-tree](https://github.com/vic/import-tree) ⭐ 355 | 🐛 1 | 🌐 Nix | 📅 2026-10-12.
+* [VTimofeenko/monorepo-machine-config](https://github.com/VTimofeenko/monorepo-machine-config) ⭐ 28 | 🐛 0 | 🌐 Nix | 📅 2026-11-03 - Monorepo containing dotfiles and machine configurations.
+* [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) ⭐ 15 | 🐛 0 | 🌐 Nix | 📅 2026-11-03 - Tom van Dijk's monolithic, interconnected NixOS/HomeManager/Nixvim configs.
 * [quasigod/nixconfig](https://codeberg.org/quasigod/nixconfig) - NixOS and Home Manager configurations with flake-parts and [unify](https://codeberg.org/quasigod/unify/).
 
 ## Community
@@ -84,4 +84,4 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
