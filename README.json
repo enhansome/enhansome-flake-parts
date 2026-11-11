@@ -115,7 +115,7 @@
                 "open_issues": 98,
                 "owner": "numtide",
                 "repo": "devshell",
-                "stars": 1572,
+                "stars": 1573,
                 "topics": [
                   "direnv",
                   "nix",
@@ -136,8 +136,8 @@
                 "id": 394001898,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-11-10T06:46:43Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-11T05:32:53Z",
+                "open_issues": 21,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
                 "stars": 972,
@@ -430,7 +430,7 @@
             "open_issues": 1,
             "owner": "denful",
             "repo": "import-tree",
-            "stars": 357,
+            "stars": 359,
             "topics": [
               "automatic-imports",
               "dendritic",
@@ -459,7 +459,7 @@
             "open_issues": 7,
             "owner": "denful",
             "repo": "flake-file",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "dendritic",
               "flake-generator",
@@ -582,7 +582,7 @@
             "id": 355283608,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-11-10T03:29:03Z",
+            "last_commit": "2026-11-11T17:05:32Z",
             "open_issues": 3,
             "owner": "srid",
             "repo": "nixos-config",
@@ -638,7 +638,7 @@
             "open_issues": 2,
             "owner": "drupol",
             "repo": "infra",
-            "stars": 158,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T21:01:33.463Z"
@@ -655,7 +655,7 @@
             "id": 316862000,
             "language": "Nix",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T13:19:05Z",
+            "last_commit": "2026-11-11T12:31:08Z",
             "open_issues": 1,
             "owner": "vic",
             "repo": "vix",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:22:34.356Z",
+    "last_updated": "2026-11-11T17:33:11.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
