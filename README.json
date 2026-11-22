@@ -52,7 +52,7 @@
             "open_issues": 0,
             "owner": "Doc-Steve",
             "repo": "dendritic-design-with-flake-parts",
-            "stars": 475,
+            "stars": 476,
             "topics": []
           },
           "first_seen": "2026-08-28T21:01:33.463Z"
@@ -136,11 +136,11 @@
                 "id": 394001898,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-11-20T06:40:35Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-22T06:00:56Z",
+                "open_issues": 22,
                 "owner": "fufexan",
                 "repo": "nix-gaming",
-                "stars": 974,
+                "stars": 975,
                 "topics": [
                   "epic",
                   "gaming",
@@ -172,7 +172,7 @@
                 "open_issues": 105,
                 "owner": "cachix",
                 "repo": "git-hooks.nix",
-                "stars": 882,
+                "stars": 883,
                 "topics": [
                   "nix",
                   "pre-commit"
@@ -192,7 +192,7 @@
                 "id": 655908463,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-11-15T05:24:54Z",
+                "last_commit": "2026-11-22T05:39:39Z",
                 "open_issues": 58,
                 "owner": "juspay",
                 "repo": "services-flake",
@@ -219,7 +219,7 @@
                 "language": "Nix",
                 "license": "MIT",
                 "last_commit": "2026-11-20T11:34:22Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "numtide",
                 "repo": "treefmt-nix",
                 "stars": 667,
@@ -430,7 +430,7 @@
             "open_issues": 1,
             "owner": "denful",
             "repo": "import-tree",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "automatic-imports",
               "dendritic",
@@ -655,7 +655,7 @@
             "id": 316862000,
             "language": "Nix",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T13:17:26Z",
+            "last_commit": "2026-11-22T13:08:58Z",
             "open_issues": 2,
             "owner": "vic",
             "repo": "vix",
@@ -720,7 +720,7 @@
             "id": 880866736,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-11-20T22:14:24Z",
+            "last_commit": "2026-11-22T06:54:23Z",
             "open_issues": 0,
             "owner": "dtomvan",
             "repo": "puntbestanden",
@@ -734,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T17:00:14.444Z",
+    "last_updated": "2026-11-22T17:29:08.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.",
